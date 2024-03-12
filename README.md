@@ -29,9 +29,9 @@ doc2txt -d {directory of .doc files} -o {output directory}
 
 ### Options
 
--h: Displays help information, listing all available options.
--d: Specifies the directory containing the .doc files to be processed.
--o: Defines the destination directory for the extracted text files.
+* -h: Displays help information, listing all available options.
+* -d: Specifies the directory containing the .doc files to be processed.
+* -o: Defines the destination directory for the extracted text files.
 
 ## Getting Started
 
